@@ -16,4 +16,4 @@ spec:
       - name: myapp
         image: pravalikaa18/java
         ports:
-        - containerPort: 9090
+        - containerPort: 8091
